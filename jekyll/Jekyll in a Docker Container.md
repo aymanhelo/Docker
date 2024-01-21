@@ -30,7 +30,7 @@ Details: it will mount your current path into the containers `/site`, `bundle in
 `jekyll serve` to , serve it at `http://<docker-host>:4000`.
 
 To make this even easier, copy `docker-compose.yml`
-[from this repository](https://github.com/BretFisher/jekyll-serve/blob/master/docker-compose.yml)
+[from this repository](https://github.com/aymanhelo/Docker/blob/main/jekyll/docker-compose.yml)
 to your jekyll site root. Then you'll only need to:
 
 ```shell
